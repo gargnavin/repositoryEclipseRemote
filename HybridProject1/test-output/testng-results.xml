@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-28T19:30:06 CEST" name="Default suite" finished-at="2021-09-28T19:30:16 CEST" duration-ms="9417">
+    <groups>
+    </groups>
+    <test started-at="2021-09-28T19:30:06 CEST" name="Default test" finished-at="2021-09-28T19:30:16 CEST" duration-ms="9417">
+      <class name="com.orange.HybridProject1.HeadLessTest">
+        <test-method signature="headLess()[pri:0, instance:com.orange.HybridProject1.HeadLessTest@10959ece]" started-at="2021-09-28T19:30:07 CEST" name="headLess" finished-at="2021-09-28T19:30:16 CEST" duration-ms="9213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headLess -->
+      </class> <!-- com.orange.HybridProject1.HeadLessTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
