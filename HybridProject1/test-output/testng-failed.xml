@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.orange.HybridProject1.HeadLessTest">
+      <class name="com.orange.HybridProject1.IETest">
         <methods>
-          <include name="headLess"/>
+          <include name="ieTestMethod"/>
         </methods>
-      </class> <!-- com.orange.HybridProject1.HeadLessTest -->
+      </class> <!-- com.orange.HybridProject1.IETest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

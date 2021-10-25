@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+ 
+  <test name="GRID TEST WITH SERIAL EXECTION WITH BROWSER CHROME">
+    <parameter name ="browserType" value="chrome"/>
+        <classes>
+            <class name ="com.orange.HybridProject1.SeleniumGridDemo"/>
+        </classes>
+    </test>
+    <test name="GRID TEST WITH SERIAL EXECTION WITH BROWSER IE">
+    <parameter name ="browserType" value="IE"/>
+        <classes>
+            <class name ="com.orange.HybridProject1.SeleniumGridDemo"/>
+        </classes>
+    </test>
+  
+</suite> <!-- Suite -->
